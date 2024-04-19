@@ -1,0 +1,70 @@
+C:\Users\natha\source\repos\SimuladorDeMensagens\SimuladorDeMensagens\bin\Debug\net8.0\SimuladorDeMensagens.exe
+C:\Users\natha\source\repos\SimuladorDeMensagens\SimuladorDeMensagens\bin\Debug\net8.0\SimuladorDeMensagens.deps.json
+C:\Users\natha\source\repos\SimuladorDeMensagens\SimuladorDeMensagens\bin\Debug\net8.0\SimuladorDeMensagens.runtimeconfig.json
+C:\Users\natha\source\repos\SimuladorDeMensagens\SimuladorDeMensagens\bin\Debug\net8.0\SimuladorDeMensagens.dll
+C:\Users\natha\source\repos\SimuladorDeMensagens\SimuladorDeMensagens\bin\Debug\net8.0\SimuladorDeMensagens.pdb
+C:\Users\natha\source\repos\SimuladorDeMensagens\SimuladorDeMensagens\obj\Debug\net8.0\SimuladorDeMensagens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\source\repos\SimuladorDeMensagens\SimuladorDeMensagens\obj\Debug\net8.0\SimuladorDeMensagens.AssemblyInfoInputs.cache
+C:\Users\natha\source\repos\SimuladorDeMensagens\SimuladorDeMensagens\obj\Debug\net8.0\SimuladorDeMensagens.AssemblyInfo.cs
+C:\Users\natha\source\repos\SimuladorDeMensagens\SimuladorDeMensagens\obj\Debug\net8.0\SimuladorDeMensagens.csproj.CoreCompileInputs.cache
+C:\Users\natha\source\repos\SimuladorDeMensagens\SimuladorDeMensagens\obj\Debug\net8.0\SimuladorDeMensagens.dll
+C:\Users\natha\source\repos\SimuladorDeMensagens\SimuladorDeMensagens\obj\Debug\net8.0\refint\SimuladorDeMensagens.dll
+C:\Users\natha\source\repos\SimuladorDeMensagens\SimuladorDeMensagens\obj\Debug\net8.0\SimuladorDeMensagens.pdb
+C:\Users\natha\source\repos\SimuladorDeMensagens\SimuladorDeMensagens\obj\Debug\net8.0\SimuladorDeMensagens.genruntimeconfig.cache
+C:\Users\natha\source\repos\SimuladorDeMensagens\SimuladorDeMensagens\obj\Debug\net8.0\ref\SimuladorDeMensagens.dll
+C:\Users\natha\OneDrive\Área de Trabalho\4 SEMESTRE\Programação para Sistemas Embarcados\SimuladorDeMensagens\SimuladorDeMensagens\bin\Debug\net8.0\SimuladorDeMensagens.exe
+C:\Users\natha\OneDrive\Área de Trabalho\4 SEMESTRE\Programação para Sistemas Embarcados\SimuladorDeMensagens\SimuladorDeMensagens\bin\Debug\net8.0\SimuladorDeMensagens.deps.json
+C:\Users\natha\OneDrive\Área de Trabalho\4 SEMESTRE\Programação para Sistemas Embarcados\SimuladorDeMensagens\SimuladorDeMensagens\bin\Debug\net8.0\SimuladorDeMensagens.runtimeconfig.json
+C:\Users\natha\OneDrive\Área de Trabalho\4 SEMESTRE\Programação para Sistemas Embarcados\SimuladorDeMensagens\SimuladorDeMensagens\bin\Debug\net8.0\SimuladorDeMensagens.dll
+C:\Users\natha\OneDrive\Área de Trabalho\4 SEMESTRE\Programação para Sistemas Embarcados\SimuladorDeMensagens\SimuladorDeMensagens\bin\Debug\net8.0\SimuladorDeMensagens.pdb
+C:\Users\natha\OneDrive\Área de Trabalho\4 SEMESTRE\Programação para Sistemas Embarcados\SimuladorDeMensagens\SimuladorDeMensagens\obj\Debug\net8.0\SimuladorDeMensagens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\OneDrive\Área de Trabalho\4 SEMESTRE\Programação para Sistemas Embarcados\SimuladorDeMensagens\SimuladorDeMensagens\obj\Debug\net8.0\SimuladorDeMensagens.AssemblyInfoInputs.cache
+C:\Users\natha\OneDrive\Área de Trabalho\4 SEMESTRE\Programação para Sistemas Embarcados\SimuladorDeMensagens\SimuladorDeMensagens\obj\Debug\net8.0\SimuladorDeMensagens.AssemblyInfo.cs
+C:\Users\natha\OneDrive\Área de Trabalho\4 SEMESTRE\Programação para Sistemas Embarcados\SimuladorDeMensagens\SimuladorDeMensagens\obj\Debug\net8.0\SimuladorDeMensagens.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Área de Trabalho\4 SEMESTRE\Programação para Sistemas Embarcados\SimuladorDeMensagens\SimuladorDeMensagens\obj\Debug\net8.0\SimuladorDeMensagens.dll
+C:\Users\natha\OneDrive\Área de Trabalho\4 SEMESTRE\Programação para Sistemas Embarcados\SimuladorDeMensagens\SimuladorDeMensagens\obj\Debug\net8.0\refint\SimuladorDeMensagens.dll
+C:\Users\natha\OneDrive\Área de Trabalho\4 SEMESTRE\Programação para Sistemas Embarcados\SimuladorDeMensagens\SimuladorDeMensagens\obj\Debug\net8.0\SimuladorDeMensagens.pdb
+C:\Users\natha\OneDrive\Área de Trabalho\4 SEMESTRE\Programação para Sistemas Embarcados\SimuladorDeMensagens\SimuladorDeMensagens\obj\Debug\net8.0\SimuladorDeMensagens.genruntimeconfig.cache
+C:\Users\natha\OneDrive\Área de Trabalho\4 SEMESTRE\Programação para Sistemas Embarcados\SimuladorDeMensagens\SimuladorDeMensagens\obj\Debug\net8.0\ref\SimuladorDeMensagens.dll
+C:\Users\natha\OneDrive\Área de Trabalho\4 SEMESTRE\Programação para Sistemas Embarcados\Caminho\SimuladorDeMensagens\bin\Debug\net8.0\SimuladorDeMensagens.exe
+C:\Users\natha\OneDrive\Área de Trabalho\4 SEMESTRE\Programação para Sistemas Embarcados\Caminho\SimuladorDeMensagens\bin\Debug\net8.0\SimuladorDeMensagens.deps.json
+C:\Users\natha\OneDrive\Área de Trabalho\4 SEMESTRE\Programação para Sistemas Embarcados\Caminho\SimuladorDeMensagens\bin\Debug\net8.0\SimuladorDeMensagens.runtimeconfig.json
+C:\Users\natha\OneDrive\Área de Trabalho\4 SEMESTRE\Programação para Sistemas Embarcados\Caminho\SimuladorDeMensagens\bin\Debug\net8.0\SimuladorDeMensagens.dll
+C:\Users\natha\OneDrive\Área de Trabalho\4 SEMESTRE\Programação para Sistemas Embarcados\Caminho\SimuladorDeMensagens\bin\Debug\net8.0\SimuladorDeMensagens.pdb
+C:\Users\natha\OneDrive\Área de Trabalho\4 SEMESTRE\Programação para Sistemas Embarcados\Caminho\SimuladorDeMensagens\obj\Debug\net8.0\SimuladorDeMensagens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\OneDrive\Área de Trabalho\4 SEMESTRE\Programação para Sistemas Embarcados\Caminho\SimuladorDeMensagens\obj\Debug\net8.0\SimuladorDeMensagens.AssemblyInfoInputs.cache
+C:\Users\natha\OneDrive\Área de Trabalho\4 SEMESTRE\Programação para Sistemas Embarcados\Caminho\SimuladorDeMensagens\obj\Debug\net8.0\SimuladorDeMensagens.AssemblyInfo.cs
+C:\Users\natha\OneDrive\Área de Trabalho\4 SEMESTRE\Programação para Sistemas Embarcados\Caminho\SimuladorDeMensagens\obj\Debug\net8.0\SimuladorDeMensagens.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Área de Trabalho\4 SEMESTRE\Programação para Sistemas Embarcados\Caminho\SimuladorDeMensagens\obj\Debug\net8.0\SimuladorDeMensagens.dll
+C:\Users\natha\OneDrive\Área de Trabalho\4 SEMESTRE\Programação para Sistemas Embarcados\Caminho\SimuladorDeMensagens\obj\Debug\net8.0\refint\SimuladorDeMensagens.dll
+C:\Users\natha\OneDrive\Área de Trabalho\4 SEMESTRE\Programação para Sistemas Embarcados\Caminho\SimuladorDeMensagens\obj\Debug\net8.0\SimuladorDeMensagens.pdb
+C:\Users\natha\OneDrive\Área de Trabalho\4 SEMESTRE\Programação para Sistemas Embarcados\Caminho\SimuladorDeMensagens\obj\Debug\net8.0\SimuladorDeMensagens.genruntimeconfig.cache
+C:\Users\natha\OneDrive\Área de Trabalho\4 SEMESTRE\Programação para Sistemas Embarcados\Caminho\SimuladorDeMensagens\obj\Debug\net8.0\ref\SimuladorDeMensagens.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Caminho\SimuladorDeMensagens\bin\Debug\net8.0\SimuladorDeMensagens.exe
+C:\Users\natha\OneDrive\Área de Trabalho\Caminho\SimuladorDeMensagens\bin\Debug\net8.0\SimuladorDeMensagens.deps.json
+C:\Users\natha\OneDrive\Área de Trabalho\Caminho\SimuladorDeMensagens\bin\Debug\net8.0\SimuladorDeMensagens.runtimeconfig.json
+C:\Users\natha\OneDrive\Área de Trabalho\Caminho\SimuladorDeMensagens\bin\Debug\net8.0\SimuladorDeMensagens.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Caminho\SimuladorDeMensagens\bin\Debug\net8.0\SimuladorDeMensagens.pdb
+C:\Users\natha\OneDrive\Área de Trabalho\Caminho\SimuladorDeMensagens\obj\Debug\net8.0\SimuladorDeMensagens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\OneDrive\Área de Trabalho\Caminho\SimuladorDeMensagens\obj\Debug\net8.0\SimuladorDeMensagens.AssemblyInfoInputs.cache
+C:\Users\natha\OneDrive\Área de Trabalho\Caminho\SimuladorDeMensagens\obj\Debug\net8.0\SimuladorDeMensagens.AssemblyInfo.cs
+C:\Users\natha\OneDrive\Área de Trabalho\Caminho\SimuladorDeMensagens\obj\Debug\net8.0\SimuladorDeMensagens.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Área de Trabalho\Caminho\SimuladorDeMensagens\obj\Debug\net8.0\SimuladorDeMensagens.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Caminho\SimuladorDeMensagens\obj\Debug\net8.0\refint\SimuladorDeMensagens.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Caminho\SimuladorDeMensagens\obj\Debug\net8.0\SimuladorDeMensagens.pdb
+C:\Users\natha\OneDrive\Área de Trabalho\Caminho\SimuladorDeMensagens\obj\Debug\net8.0\SimuladorDeMensagens.genruntimeconfig.cache
+C:\Users\natha\OneDrive\Área de Trabalho\Caminho\SimuladorDeMensagens\obj\Debug\net8.0\ref\SimuladorDeMensagens.dll
+C:\Users\natha\OneDrive\Área de Trabalho\4 SEMESTRE\Mesh2D\SimuladorDeMensagens\bin\Debug\net8.0\SimuladorDeMensagens.exe
+C:\Users\natha\OneDrive\Área de Trabalho\4 SEMESTRE\Mesh2D\SimuladorDeMensagens\bin\Debug\net8.0\SimuladorDeMensagens.deps.json
+C:\Users\natha\OneDrive\Área de Trabalho\4 SEMESTRE\Mesh2D\SimuladorDeMensagens\bin\Debug\net8.0\SimuladorDeMensagens.runtimeconfig.json
+C:\Users\natha\OneDrive\Área de Trabalho\4 SEMESTRE\Mesh2D\SimuladorDeMensagens\bin\Debug\net8.0\SimuladorDeMensagens.dll
+C:\Users\natha\OneDrive\Área de Trabalho\4 SEMESTRE\Mesh2D\SimuladorDeMensagens\bin\Debug\net8.0\SimuladorDeMensagens.pdb
+C:\Users\natha\OneDrive\Área de Trabalho\4 SEMESTRE\Mesh2D\SimuladorDeMensagens\obj\Debug\net8.0\SimuladorDeMensagens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\OneDrive\Área de Trabalho\4 SEMESTRE\Mesh2D\SimuladorDeMensagens\obj\Debug\net8.0\SimuladorDeMensagens.AssemblyInfoInputs.cache
+C:\Users\natha\OneDrive\Área de Trabalho\4 SEMESTRE\Mesh2D\SimuladorDeMensagens\obj\Debug\net8.0\SimuladorDeMensagens.AssemblyInfo.cs
+C:\Users\natha\OneDrive\Área de Trabalho\4 SEMESTRE\Mesh2D\SimuladorDeMensagens\obj\Debug\net8.0\SimuladorDeMensagens.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Área de Trabalho\4 SEMESTRE\Mesh2D\SimuladorDeMensagens\obj\Debug\net8.0\SimuladorDeMensagens.dll
+C:\Users\natha\OneDrive\Área de Trabalho\4 SEMESTRE\Mesh2D\SimuladorDeMensagens\obj\Debug\net8.0\refint\SimuladorDeMensagens.dll
+C:\Users\natha\OneDrive\Área de Trabalho\4 SEMESTRE\Mesh2D\SimuladorDeMensagens\obj\Debug\net8.0\SimuladorDeMensagens.pdb
+C:\Users\natha\OneDrive\Área de Trabalho\4 SEMESTRE\Mesh2D\SimuladorDeMensagens\obj\Debug\net8.0\SimuladorDeMensagens.genruntimeconfig.cache
+C:\Users\natha\OneDrive\Área de Trabalho\4 SEMESTRE\Mesh2D\SimuladorDeMensagens\obj\Debug\net8.0\ref\SimuladorDeMensagens.dll
